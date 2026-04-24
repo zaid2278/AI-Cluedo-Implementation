@@ -28,5 +28,5 @@ This project implements a fully functional, text-based version of the board game
 1. **Navigate to the Source Code:**
    Open your terminal or command prompt and navigate to the folder containing the files:
    ```bash
-   cd path/to/ZaidHasan_Project2_SourceCode
+   cd path/to/Project_SourceCode
 2. Run main.py to start the game
