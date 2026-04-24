@@ -1,6 +1,4 @@
-Project 2 Complete: AI Cluedo Implementation
 Name: Zaid Hasan
-Course: CS670-851
 
 ## Description
 This project implements a fully functional, text-based version of the board game Cluedo, featuring an intelligent AI opponent. Beyond the core movement mechanics, this version includes a sophisticated AI agent capable of logical deduction using a "negative knowledge" constraint satisfaction system. The game features a complete loop including suggestions, clockwise refutations, dragging mechanics, and win/loss states via accusations. It also includes a custom Terminal UI using ANSI colors for a retro-style board visualization.
